@@ -1,18 +1,35 @@
-# Liam Chalmers portfolio 2022
+# Liam Chalmers TY Portfolio 2022
 
 My TY portfolio in github.
 
+## Work Experience
 
-## A week in Fluery Engineering
-On my first day i worked on 3D models with Felipe, a brazilian engineer.
+### Fleury Engineering
 
-On my second day i was paired with Evan, an Irish mechanical engineer, we presuer tested pipes.
+Monday 7th to Friday 11th of November
 
-On my third day i dismanteld the last set of pipes before presuer testing the next two sets of pipes.
+[Fleury Engineering](https://fleuryengineering.com/) design and create industrial fuel systems and solutions for turbines, data centres and airports.
 
-On my fourth day i dismanteled and presuer tested the last of the pipes.
+#### A week in Fleury Engineering
+On my first day i worked with Felipe, a Brazilian engineer.
+- I sat with Felipe as he worked on 3D models on a [CAD](https://www.techtarget.com/whatis/definition/CAD-computer-aided-design) package
 
-On my final day i cleaned the doors of the fuel intake cabintes they were bulding before learing (roughly) how to weld.
+On my second day i was paired with Evan, an Irish mechanical engineer.
+- We pressure tested pipes by filing them with water and pupming in more till it was 13 BAR
+
+On my third day i was working with Evan again.
+- i dismantled the last set of pipes before pressure testing the next two sets of pipes.
+
+On my fourth day i was paired with Evan for the third time.
+- i dismantled and pressure tested the last of the pipes.
+
+On my final day Evan was out so i could not finish taking the pipes apart.
+-  i cleaned the doors of the fuel intake cabinets they were building before learning (roughly) how to weld.
+
+
+
+
+
 
 
 
