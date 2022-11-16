@@ -8,7 +8,7 @@ My TY portfolio in github.
 
 Monday 7th to Friday 11th of November
 
-[Fleury Engineering](https://fleuryengineering.com/) design and create industrial fuel systems and solutions for turbines, data centres and airports.
+[Fleury Engineering](https://fleuryengineering.com/) design and create industrial fuel systems and solutions for turbines, data centres and airports. It is located in the Carrigaline Business Park.
 
 #### A week in Fleury Engineering
 On my first day i worked with Felipe, a Brazilian engineer.
@@ -25,6 +25,13 @@ On my fourth day i was paired with Evan for the third time.
 
 On my final day Evan was out so i could not finish taking the pipes apart.
 -  i cleaned the doors of the fuel intake cabinets they were building before learning (roughly) how to weld.
+
+#### What i learned
+I learned that physics and chemistary are both important in mechanical engineering.
+
+I learned that it is important to pressure test every pipe to 1.3 times the pressure the are expected to expieriance while in use.
+
+I learned that it takes years to undergo a welding apprenticeship.
 
 
 
