@@ -29,7 +29,7 @@ On my final day Evan was out so i could not finish taking the pipes apart.
 #### What i learned
 I learned that physics and chemistary are both important in mechanical engineering.
 
-I learned that it is important to pressure test every pipe to 1.3 times the pressure the are expected to expieriance while in use.
+I learned that it is important to pressure test every pipe to 1.3 times the pressure the are expected to experience while in use.
 
 I learned that it takes years to undergo a welding apprenticeship.
 
