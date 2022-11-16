@@ -15,7 +15,7 @@ On my first day i worked with Felipe, a Brazilian engineer.
 - I sat with Felipe as he worked on 3D models on a [CAD](https://www.techtarget.com/whatis/definition/CAD-computer-aided-design) package
 
 On my second day i was paired with Evan, an Irish mechanical engineer.
-- We pressure tested pipes by filing them with water and pupming in more till it was 13 BAR
+- We pressure tested pipes by filing them with water and pupming in more till it was 13 [BAR](https://en.wikipedia.org/wiki/Bar_(unit))
 
 On my third day i was working with Evan again.
 - i dismantled the last set of pipes before pressure testing the next two sets of pipes.
