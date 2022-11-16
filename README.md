@@ -2,7 +2,7 @@
 
 My TY portfolio in github.
 
-## Work Experience
+## Work experience
 
 ### Fleury Engineering
 
@@ -26,7 +26,7 @@ On my fourth day i was paired with Evan for the third time.
 On my final day Evan was out so i could not finish taking the pipes apart.
 -  i cleaned the doors of the fuel intake cabinets they were building before learning (roughly) how to weld.
 
-#### What i learned
+#### What I learned
 I learned that physics and chemistary are both important in mechanical engineering.
 
 I learned that it is important to pressure test every pipe to 1.3 times the pressure the are expected to experience while in use.
@@ -34,9 +34,14 @@ I learned that it is important to pressure test every pipe to 1.3 times the pres
 I learned that it takes years to undergo a welding apprenticeship.
 
 
+### Chalmers Accounting and Consulting 
+
+Monday 14th to Friday 18th of November
+[Chalmers Accouning And Consulting](https://chalmersaccounting.ie/) is a Business owned by sole trader and entrepreneur Kay Chalmers.
+
+#### A week in Chalmers Accounting and Consulting 
 
 
-
-
+#### What i learned 
 
 
