@@ -62,8 +62,8 @@ On Thursday 17th of November i was working with Ewan Chalmers again.
 - I learned how to preform a CRO search.
 - I learned how to make a GitHub page.
 - I learned how to make a spreadsheet on Excel.
+- I started learning to make a GitHub page and have made the master piece you see before you.
 
 #### Learning excel
 - [x] Using [Coursera](https://www.coursera.org/courseraplus?utm_source=gg&utm_medium=sem&utm_campaign=04-CourseraPlus-ESC&utm_content=B2C&campaignid=13433112712&adgroupid=121113573337&device=c&keyword=coursera&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=526383220022&hide_mobile_promogclid=Cj0KCQiA1NebBhDDARIsAANiDD06LgAJbpZv8cfmKSwAxlFTcElUEM8U3GIHOWO1ThkwbpRRPsVB88caAkVeEALw_wcB) i took a course called "Learning to use basic [formulas and functions](https://www.coursera.org/projects/using-basic-formulas-functions-microsoft-excel)"
 - [x] Using [Easy Excel](https://www.excel-easy.com/) i learned to use [dropdown lists](https://www.excel-easy.com/examples/drop-down-list.html)
-- [x] I started learning to make a GitHub page and have made the master piece you see before you.
