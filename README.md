@@ -43,7 +43,7 @@ Monday 14th to Friday 18th of November
 
 I started working with Kay Chalmers on Monday 14th of November.
 
-- I made a energy usage spread sheet on [excel](https://ashtonschool-my.sharepoint.com/:x:/r/personal/2025_liam_chalmers_ashton_ie/Documents/Energy%20usage.xlsx?d=w6fc2cc6d178c44938236f687b9031746&csf=1&web=1&e=UaA4Zt). I aslo used Sage 200 pro, viewed a stock valuation report and calculated project materials expediture and time costs.
+- I made a energy usage spread sheet on [excel](https://en.wikipedia.org/wiki/Microsoft_Excel). I aslo used Sage 200 pro, viewed a stock valuation report and calculated project materials expediture and time costs.
 
 On Tuesday 15th of Novmeber i was still working with Kay.
 
