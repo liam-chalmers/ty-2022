@@ -40,17 +40,25 @@ Monday 14th to Friday 18th of November
 [Chalmers Accouning And Consulting](https://chalmersaccounting.ie/) is a Business owned by sole trader and entrepreneur Kay Chalmers.
 
 #### A week in Chalmers Accounting and Consulting 
+
 I started working with Kay Chalmers on Monday 14th of November.
-- 
-On Tuesday 15th of Novmeber i continued to....
-- 
+
+- I made a energy usage spread sheet on [excel](https://ashtonschool-my.sharepoint.com/:x:/r/personal/2025_liam_chalmers_ashton_ie/Documents/Energy%20usage.xlsx?d=w6fc2cc6d178c44938236f687b9031746&csf=1&web=1&e=UaA4Zt). I aslo used Sage 200 pro, viewed a stock valuation report and calculated project materials expediture and time costs.
+
+On Tuesday 15th of Novmeber i was still working with Kay.
+
+- I did a CRO company search, i did a Coursera course, i did journals on [Xero](https://tipalti.com/en-eu/xero-integration-ptr/?cq_src=google_ads&cq_cmp=18210123574&cq_con=147466186744&cq_term=xero&cq_med=&cq_plac=&cq_net=g&cq_pos=&cq_plt=gp&utm_source=google&utm_medium=cpc&utm_term=xero&utm_campaign=G_S_EU_Xero_General&utm_adgroup=&_bt=619176002544&_bm=e&_bn=g&gclid=Cj0KCQiA1NebBhDDARIsAANiDD3naFxAusPs0xRxlyjBmxAfEWA7RgL28ZjyE3FXyqtGdj3s-Xq5J_QaAnveEALw_wcB)
+
 On Wednesday 16th of November i was working with Ewan Chalmers.
+
 - He tought me how to make a online page on GitHub, i made started this page.
+
 On Thursday 17th of November i was working with Ewan Chalmers again.
+
 - I spent the day updating and continuing this page as well as using easy excel.
 
 #### What i learned 
-- I learned how to use some basic functiions on excel.
+- I learned how to use some basic functions on excel.
 - 
 - 
 - 
