@@ -69,9 +69,6 @@ On Thursday 17th of November i was working with Ewan Chalmers again.
 - [x] Using [Easy Excel](https://www.excel-easy.com/) i learned to use [dropdown lists](https://www.excel-easy.com/examples/drop-down-list.html)
 
 
-```mermaid
-flowchart TD
-A[]
 
 
 
